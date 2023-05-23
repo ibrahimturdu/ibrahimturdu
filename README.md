@@ -6,7 +6,7 @@
 
  *   I am knowledgeable in HTML and CSS and am currently learning JavaScript and React. You can find projects related to these languages on my GitHub profile.
 
- *   Here, I share my experience in software development. I hope to work together on great projects.
+ *   Here, I share my experience in Front-End development. I hope to work together on great projects.
 
 Thank you for browsing my GitHub profile. If you have any questions or offers of cooperation, please do not hesitate to contact me. See you later
 
